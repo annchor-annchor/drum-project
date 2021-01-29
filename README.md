@@ -1,2 +1,2 @@
 # drum-project
-Another example of implementing JavaCript for a simple Drum Project.
+Another example of implementing JavaScript for a simple Drum Project.
